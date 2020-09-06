@@ -1,0 +1,4 @@
+Log file created at: 2020/07/25 23:00:40
+Running on machine: snake
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0725 23:00:40.828918 13433 check_messages.h:1082] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
