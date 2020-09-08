@@ -1,3 +1,5 @@
+Курс dlcourse.ai по Deep Learning
+
 Assignment 1 - Completed
 <br>
 Assignment 2 - Completed
