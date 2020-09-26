@@ -1,4 +1,4 @@
-Курс dlcourse.ai по Deep Learning
+dlcourse.ai Deep Learning course
 
 Assignment 1 - Completed
 <br>
